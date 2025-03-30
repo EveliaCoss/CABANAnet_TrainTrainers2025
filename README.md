@@ -1,3 +1,5 @@
+<img src="figures/cabananet_logo.png" alt="CABANAnet Logo" width="150" style="float: left;">
+
 # CABANAnet: Entrenamiento para instructores
 
 **Instructores:**
@@ -52,4 +54,3 @@ Durante el curso, utilizaremos una variedad de recursos, que incluyen materiales
 ## **Citar y reutilizar el material del curso**
 
 Los datos del curso se pueden reutilizar y adaptar libremente con la debida atribución. Todos los datos de los cursos de estos repositorios están sujetos a la licencia [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
