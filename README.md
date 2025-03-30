@@ -1,6 +1,6 @@
 # CABANAnet: Entrenamiento para instructores
 
-#### **Instructores:**
+**Instructores:**
 
 -   **Evelia Coss** - Postdoctoral LIIGH, VieRnes de Bioinformática en el LIIGH-UNAM, RSG México y Rladies Morelia. Instructora certificada de Carpentries. [Web page](https://eveliacoss.github.io/)
 -   **Miguel Angel Magaña Lemus** - Tecnico CCM-UNAM, Instructor certificado de Carpentries.
