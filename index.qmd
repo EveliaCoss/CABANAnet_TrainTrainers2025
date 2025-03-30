@@ -1,0 +1,90 @@
+::: {layout-ncol="2"}
+![](figures/cabananet_logo.png)
+:::
+
+# Información general {.unnumbered}
+
+-   ::: {.panel-tabset group="globalInfo"}
+    ### Sobre el curso 📌
+
+    Durante el curso, utilizaremos una variedad de recursos, que incluyen materiales prácticos y teóricos para el desarrollo de habilidades de enseñanza en bioinformática. Entre los principales materiales se encuentran los proporcionados por [MetaDocencia y CABANAnet](https://www.metadocencia.org/curso/entrenamiento-instructores/), [The Capentries](https://carpentries.github.io/instructor-training/) y [Rstudio Education](https://education.rstudio.com/trainers/#info).
+
+    -   **Fechas:** 29 y 30 de abril de 2025
+
+    -   **Duración del curso:** 16 horas (8 horas diarias)
+
+    #### **Instructores:**
+
+    -   **Evelia Coss**  - Postdoctoral LIIGH, VieRnes de Bioinformática en el LIIGH-UNAM, RSG México y Rladies Morelia. Instructora certificada de Carpentries.  [Web page](https://eveliacoss.github.io/)
+    -   **Miguel Angel Magaña Lemus - Tecnico CCM-UNAM, Instructor certificado de Carpentries.**
+    -   **Domingo Martinez -** Postdoctoral LIIGH-UNAM, Profesor de Asignatura ENES-UNAM.
+
+    Ayudantes:
+
+    -   **Johanna Castelán** - RSG México y Rladies Morelia 
+    -   **Marisol Navarro** - RSG México
+
+    #### **Descripción** 
+
+    El evento CABANAnet: Entrenamiento para Instructores está diseñado para capacitar a los **futuros instructores en el uso de la red CABANAnet**, un recurso clave para la enseñanza de bioinformática y herramientas computacionales en la ciencia. A través de este entrenamiento, los participantes aprenderán a utilizar la plataforma, explorar sus características y métodos pedagógicos, y desarrollar habilidades para enseñar a otros de manera efectiva, promoviendo un aprendizaje inclusivo y accesible en el ámbito de la bioinformática.
+
+    #### **Objetivo**
+
+    Capacitar a los participantes en el uso y enseñanza de CABANAnet, brindándoles las herramientas necesarias para **impartir formación efectiva y promover el aprendizaje interactivo en bioinformática**, asegurando la transferencia de conocimientos y el fortalecimiento de la red de instructores.
+
+    Este entrenamiento proporcionará:
+
+    -   Orientación sobre técnicas generales de capacitación y el uso adecuado de métodos pedagógicos, centrados en las necesidades de los participantes, junto con consejos prácticos para garantizar una capacitación exitosa.
+
+    -   Un marco para el diseño curricular efectivo y su posterior desarrollo, que permitirá a los futuros instructores crear y adaptar cursos alineados con las necesidades de su alumnado.
+
+    -   Oportunidades para practicar la entrega de capacitación virtual, fomentando la interacción y aprendizaje a distancia de manera efectiva.
+
+    #### **Enfoque de la audiencia**
+
+    Este entrenamiento está orientado a personas con un fuerte **interés en la docencia**, especialmente aquellas que buscan fortalecer sus habilidades para enseñar **bioinformática**. 
+
+    ## Citar y reutilizar el material del curso
+
+    Los datos del curso se pueden reutilizar y adaptar libremente con la debida atribución. Todos los datos de los cursos de estos repositorios están sujetos a la licencia [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+    ### Requisitos previos
+
+    Se recomienda a los participantes que:
+
+    -   Estén cursando un posgrado o tengan varios años de experiencia en investigación o educación universitaria.
+
+    -   Se encuentren trabajando en una institución latinoamericana y se prevea que permanezcan en ella al menos durante el próximo año.
+
+    -   Tengan un gran interés en la enseñanza y hayan participado previamente en programas de formación.
+
+    -   Hayan identificado una necesidad o brecha en la cual pueden ofrecer capacitación y ya hayan reflexionado sobre el tipo de formación que desean brindar.
+
+    ### Agenda 📆 {#agenda}
+
+    +----------------------------------------------------+--------------+
+    | Tema                                               | Tiempo       |
+    +====================================================+:============:+
+    | 🔷 **Sección** **1 - (11:30 - 13:30 h) (7 marzo)** |              |
+    +----------------------------------------------------+--------------+
+    | -   Creación de una cuenta en GitHub               | 5 min        |
+    +----------------------------------------------------+--------------+
+    | -   Introducción a Git / GitHub                    | 15 min       |
+    +----------------------------------------------------+--------------+
+    | -   **Actividad 1**: Sincronización y llaves       | 15 min       |
+    +----------------------------------------------------+--------------+
+    | ☕ *Coffee break (10 min) - (12:00-12:10) ☕*      | 10 min       |
+    +----------------------------------------------------+--------------+
+    | 🔷  **Sección** **2 - (12:10-13:00 h)**            |              |
+    +----------------------------------------------------+--------------+
+    | -   Comandos usados en Github y RStudio            | 25 min       |
+    +----------------------------------------------------+--------------+
+    | -   **Actividad 2:** Pagina de inicio en GitHub    | 15 min       |
+    +----------------------------------------------------+--------------+
+    | 🔷  **Sección 3 - (11:30 - 13:30 h) (14 marzo)**   |              |
+    +----------------------------------------------------+--------------+
+    | -   Buenas practicas en R                          | 30 min       |
+    +----------------------------------------------------+--------------+
+    | -   **Actividad 3:** Pagina web en GitHub          | 1:30 min     |
+    +----------------------------------------------------+--------------+
+    :::
