@@ -2,27 +2,26 @@
 
 # CABANAnet: Entrenamiento para instructores
 
-**Instructores:**
+### **Instructores:**
 
 -   **Evelia Coss** - Postdoctoral LIIGH, VieRnes de Bioinformática en el LIIGH-UNAM, RSG México y Rladies Morelia. Instructora certificada de Carpentries. [Web page](https://eveliacoss.github.io/)
 -   **Miguel Angel Magaña Lemus** - Tecnico CCM-UNAM, Instructor certificado de Carpentries.
 -   **Domingo Martinez** - Postdoctoral LIIGH-UNAM, Profesor de Asignatura ENES-UNAM. Ayudantes Johanna Castelán - RSG México y Rladies Morelia Marisol Navarro - RSG México
 
-**Máximo número de participantes:** 15
 
-**Duración:** 16 horas (8 horas diarias)
+### **Información del curso** 
 
-**Idioma:** Español
-
-**Fechas**: 28 al 30 de abril de 2025
-
-**Sede:** Laboratorio Internacional de Investigación sobre el Genoma Humano (LIIGH-UNAM), Juriquilla, Querétaro, México. [Mapa](https://www.google.com/maps/place/Laboratorio+Internacional+de+Investigaci%C3%B3n+sobre+el+Genoma+Humano+(LIIGH)+UNAM/data=!4m2!3m1!1s0x0:0xde7120fbed54624f?sa=X&ved=1t:2428&ictx=111) 🏢
+- **Máximo número de participantes:** 15
+- **Duración:** 16 horas (8 horas diarias)
+- **Idioma:** Español
+- 📆 **Fechas**: 28 al 30 de abril de 2025
+- 🏢 **Sede:** Laboratorio Internacional de Investigación sobre el Genoma Humano (LIIGH-UNAM), Juriquilla, Querétaro, México. [Mapa](https://www.google.com/maps/place/Laboratorio+Internacional+de+Investigaci%C3%B3n+sobre+el+Genoma+Humano+(LIIGH)+UNAM/data=!4m2!3m1!1s0x0:0xde7120fbed54624f?sa=X&ved=1t:2428&ictx=111) 
 
 ### **Descripción** 📌
 
 El evento CABANAnet: Entrenamiento para Instructores está diseñado para capacitar a los **futuros instructores en el uso de la red CABANAnet**, un recurso clave para la enseñanza de bioinformática y herramientas computacionales en la ciencia. A través de este entrenamiento, los participantes aprenderán a utilizar la plataforma, explorar sus características y métodos pedagógicos, y desarrollar habilidades para enseñar a otros de manera efectiva, promoviendo un aprendizaje inclusivo y accesible en el ámbito de la bioinformática.
 
-### **Objetivo** 📍
+### **Objetivo** 🚀
 
 Capacitar a los participantes en el uso y enseñanza de CABANAnet, brindándoles las herramientas necesarias para **impartir formación efectiva y promover el aprendizaje interactivo en bioinformática**, asegurando la transferencia de conocimientos y el fortalecimiento de la red de instructores.
 
@@ -38,7 +37,7 @@ Este entrenamiento proporcionará:
 
 Este entrenamiento está orientado a personas con un fuerte **interés en la docencia**, especialmente aquellas que buscan fortalecer sus habilidades para enseñar **bioinformática**. 
 
-### **Pre-requisitos**
+### **Pre-requisitos** 📚
 
 Se recomienda a los participantes que:
 
