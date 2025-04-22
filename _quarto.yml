@@ -3,26 +3,50 @@ project:
   output-dir: docs
 
 book:
-  title: "Workshop"
-  author: "Dra. Evelia Coss"
-  date: "27/03/2025"
+  title: "CABANANet: Train the Trainers"
+  author: "Evelia Coss, Miguel Magaña y Domingo Martinez"
+  date: "04/29/2025"
   page-navigation: true
   chapters:
-    - index.qmd
-    - Cap1.qmd
+  - index.qmd
+  - part: "**Sección 1** - Bienvenida e Introducción"
+    chapters:
     - intro.qmd
-    - Cap2.qmd
-    - Cap3.qmd
-    - Cap4.qmd
-    - Cap5.qmd
+    - Cap1.qmd
+  - part: "**Sección 2** - Modelos mentales y carga Cognitiva"
+    chapters:
+    - Cap2A.qmd
+    - Cap2B.qmd
+  - part: "**Sección 3** - Memoria y otros principios"
+    chapters:
+    - Cap3A.qmd
+    - Cap3B.qmd
+    - Cap3C.qmd
+  - part: "**Sección 4** - Audiencia y Simulación de entrenamiento"
+    chapters:
+    - Cap4A.qmd
+    - Cap4B.qmd
+    - Cap4C.qmd
+  - part: "**Sección 5** - Enseñar en línea y Planificación de cursos"
+    chapters:
+    - Cap5A.qmd
+    - Cap5B.qmd
+  - part: "**Sección 6** - Programación en vivo y entrenamientos"
+    chapters:
+    - Cap6A.qmd
+    - Cap6B.qmd
+    - Cap6C.qmd
+    - Cap6D.qmd
+    - Cap6E.qmd    
   # Information
-  repo-url: https://github.com/ISCB-RSG-MEXICO/Workshop_template # link de Github
+  site-url: https://cabana.network/ # 📍URL del sitio completo CABANANet
+  repo-url: https://github.com/EveliaCoss/CABANAnet_TrainTrainers2025 # link de Github
   sharing: [twitter, facebook, linkedin]
-  favicon: "rsgMexico.jpeg" # icono de la pagina en pestana
-
+  favicon: "figures/cabananet_logo.png" # icono de la pagina en pestana
 
 format:
   html:
+    logo: "figures/cabananet_logo.png"
     toc-depth: 4
     number-depth: 3
   # Boton para cambiar tema de oscuro a claro

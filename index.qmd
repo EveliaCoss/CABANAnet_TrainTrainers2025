@@ -13,10 +13,12 @@
 
     -   **Duración del curso:** 16 horas (8 horas diarias)
 
+    -   **Sede:** Laboratorio Internacional de Investigación sobre el Genoma Humano (LIIGH-UNAM), Campus Juriquilla, Querétaro.
+
     #### **Instructores:**
 
-    -   **Evelia Coss**  - Postdoctoral LIIGH, VieRnes de Bioinformática en el LIIGH-UNAM, RSG México y Rladies Morelia. Instructora certificada de Carpentries.  [Web page](https://eveliacoss.github.io/)
-    -   **Miguel Angel Magaña Lemus - Tecnico CCM-UNAM, Instructor certificado de Carpentries.**
+    -   **Evelia Coss**  - Postdoctoral LIIGH-UNAM, VieRnes de Bioinformática en el LIIGH-UNAM, RSG México y Rladies Morelia. Instructora certificada de Carpentries.  [Web page](https://eveliacoss.github.io/)
+    -   **Miguel Angel Magaña Lemus -** Tecnico CCM-UNAM, Instructor certificado de Carpentries.
     -   **Domingo Martinez -** Postdoctoral LIIGH-UNAM, Profesor de Asignatura ENES-UNAM.
 
     Ayudantes:
@@ -24,7 +26,7 @@
     -   **Johanna Castelán** - RSG México y Rladies Morelia 
     -   **Marisol Navarro** - RSG México
 
-    #### **Descripción** 
+    #### **Descripción**
 
     El evento CABANAnet: Entrenamiento para Instructores está diseñado para capacitar a los **futuros instructores en el uso de la red CABANAnet**, un recurso clave para la enseñanza de bioinformática y herramientas computacionales en la ciencia. A través de este entrenamiento, los participantes aprenderán a utilizar la plataforma, explorar sus características y métodos pedagógicos, y desarrollar habilidades para enseñar a otros de manera efectiva, promoviendo un aprendizaje inclusivo y accesible en el ámbito de la bioinformática.
 
@@ -62,29 +64,77 @@
 
     ### Agenda 📆 {#agenda}
 
-    +----------------------------------------------------+--------------+
-    | Tema                                               | Tiempo       |
-    +====================================================+:============:+
-    | 🔷 **Sección** **1 - (11:30 - 13:30 h) (7 marzo)** |              |
-    +----------------------------------------------------+--------------+
-    | -   Creación de una cuenta en GitHub               | 5 min        |
-    +----------------------------------------------------+--------------+
-    | -   Introducción a Git / GitHub                    | 15 min       |
-    +----------------------------------------------------+--------------+
-    | -   **Actividad 1**: Sincronización y llaves       | 15 min       |
-    +----------------------------------------------------+--------------+
-    | ☕ *Coffee break (10 min) - (12:00-12:10) ☕*      | 10 min       |
-    +----------------------------------------------------+--------------+
-    | 🔷  **Sección** **2 - (12:10-13:00 h)**            |              |
-    +----------------------------------------------------+--------------+
-    | -   Comandos usados en Github y RStudio            | 25 min       |
-    +----------------------------------------------------+--------------+
-    | -   **Actividad 2:** Pagina de inicio en GitHub    | 15 min       |
-    +----------------------------------------------------+--------------+
-    | 🔷  **Sección 3 - (11:30 - 13:30 h) (14 marzo)**   |              |
-    +----------------------------------------------------+--------------+
-    | -   Buenas practicas en R                          | 30 min       |
-    +----------------------------------------------------+--------------+
-    | -   **Actividad 3:** Pagina web en GitHub          | 1:30 min     |
-    +----------------------------------------------------+--------------+
+    **Dia 1**
+
+    +--------------------------------------------------+---------------+
+    | Tema                                             | Tiempo        |
+    +==================================================+:=============:+
+    | **Martes 29 de abril (9:00 - 17:00)**            |               |
+    +--------------------------------------------------+---------------+
+    | 🔷 **Sección 1 - (9:00 - 10:30 h)**              |               |
+    +--------------------------------------------------+---------------+
+    | -   Bienvenida (icebreaker) y presentaciones     | 5 min         |
+    +--------------------------------------------------+---------------+
+    | -   Introducción y personas típicas              | 15 min        |
+    +--------------------------------------------------+---------------+
+    | -   **Actividad 1**: Sincronización y llaves     | 15 min        |
+    +--------------------------------------------------+---------------+
+    | ☕ *Coffee break (10:30 - 11:00) ☕*             | 30 min        |
+    +--------------------------------------------------+---------------+
+    | 🔷  **Sección** **2 - (12:10-13:00 h)**          |               |
+    +--------------------------------------------------+---------------+
+    | -   Comandos usados en Github y RStudio          | 25 min        |
+    +--------------------------------------------------+---------------+
+    | -   **Actividad 2:** Pagina de inicio en GitHub  | 15 min        |
+    +--------------------------------------------------+---------------+
+    | 🔷  **Sección 3 - (11:30 - 13:30 h) (14 marzo)** |               |
+    +--------------------------------------------------+---------------+
+    | -   Buenas practicas en R                        | 30 min        |
+    +--------------------------------------------------+---------------+
+    | -   **Actividad 3:** Pagina web en GitHub        | 1:30 min      |
+    +--------------------------------------------------+---------------+
+
+    **Dia 2**
+
+    +--------------------------------------------------+---------------+
+    | Tema                                             | Tiempo        |
+    +==================================================+:=============:+
+    | **Martes 29 de abril (9:00 - 17:00)**            |               |
+    +--------------------------------------------------+---------------+
+    | 🔷 **Sección 1 - (9:00 - 10:30 h)**              |               |
+    +--------------------------------------------------+---------------+
+    | -   Bienvenida (icebreaker) y presentaciones     | 5 min         |
+    +--------------------------------------------------+---------------+
+    | -   Introducción y personas típicas              | 15 min        |
+    +--------------------------------------------------+---------------+
+    | -   **Actividad 1**: Sincronización y llaves     | 15 min        |
+    +--------------------------------------------------+---------------+
+    | ☕ *Coffee break (10:30 - 11:00) ☕*             | 30 min        |
+    +--------------------------------------------------+---------------+
+    | 🔷  **Sección** **2 - (12:10-13:00 h)**          |               |
+    +--------------------------------------------------+---------------+
+    | -   Comandos usados en Github y RStudio          | 25 min        |
+    +--------------------------------------------------+---------------+
+    | -   **Actividad 2:** Pagina de inicio en GitHub  | 15 min        |
+    +--------------------------------------------------+---------------+
+    | 🔷  **Sección 3 - (11:30 - 13:30 h) (14 marzo)** |               |
+    +--------------------------------------------------+---------------+
+    | -   Buenas practicas en R                        | 30 min        |
+    +--------------------------------------------------+---------------+
+    | -   **Actividad 3:** Pagina web en GitHub        | 1:30 min      |
+    +--------------------------------------------------+---------------+
+
+    ### Comité organizador
+
+    -   **Rebeca Campos** - Profesora Investigadora, Universidad de Costa Rica. Coordinadora CABANAnet.
+    -   **Selene Fernandez Valverde** - Profesora Investigadora, UNSW SYDNEY NSW 2052 AUSTRALIA. Coordinadora CABANAnet.
+    -   **Nelly Selem** - Profesora Investigadora, Centro de Ciencias Matemáticas (CCM- UNAM)
+    -   **Evelia Lorena Coss Navarrete** - Posdoctoral, LIIGH-UNAM.
+    -   **Marisol Navarro** - RSG México y Rladies Morelia 
+    -   **Johanna Castelán -** RSG México.
+    -   **Maria Avila -** Profesora Investigadora y Coordinadora, LIIGH-UNAM.
+    -   **Alejandra Medina Rivera -** Profesora Investigadora, LIIGH-UNAM.
+    -   **Iliana B. Martínez Hernández -** Delegada Administrativa. LIIGH-UNAM.
+    -   **Jair Santiago Garcia Sotelo -** Encargado del Area de Bioinformática, LIIGH-UNAM.
+    -   **Eglee Lomelin de Anda** - Asistente academica, LIIGH-UNAM.
     :::

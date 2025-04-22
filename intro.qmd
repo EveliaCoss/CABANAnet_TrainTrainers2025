@@ -1,8 +1,27 @@
-# Introducción Sobre el Workshop
+# Ronda de Presentaciones
 
-Agregar informacion y figuras.
+::: {.callout-note icon="false"}
+## Actividad 1: ¡Preséntate!
 
+Para comenzar, haremos una breve ronda de presentaciones. Cada persona deberá compartir la siguiente información en voz alta:
 
+1.  **Nombre y apellido**
+
+2.  **Institución y área de trabajo o estudio**
+
+3.  **Tu comida favorita 🍕🍜🍫**
+
+👉 Ejemplo:\
+"Hola, soy *Evelia Coss*, realizo mi posdoc en el *LIIGH-UNAM* en el área de bioinformática, y mi comida favorita es el ceviche."
+
+¡La idea es romper el hielo y conocernos un poco mejor! 😊
+:::
+
+# Introducción y personas típicas
+
+> Instructora: Evelia Coss
+
+## 
 
 ## Referencias
 
