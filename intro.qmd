@@ -1,9 +1,39 @@
+# Dinámica de trabajo
+
+> Instructora: Evelia Coss
+
+El programa "**Train the Trainers**" the **CABANANet** está diseñado para capacitar a personas que quieren convertirse en instructores certificados, enseñando talleres de ciencia de datos y programación reproducible.
+
+### Usaremos el Etherpad
+
+vamos a realizar algunos **ejercicios prácticos**. Les pedimos que por favor tengan abierto el enlace del [Etherpad](https://pad.carpentries.org/Cabana_trainthetrainers) correspondiente a nuestro entrenamiento. Ahí vamos a:
+
+-   ✍️ Escribir nuestras respuestas y reflexiones individuales o en grupo
+-   ✅ Registrar el progreso de los ejercicios
+-   💬 Compartir ideas que surjan durante la discusión
+
+⚠️ *Recuerden que el Etherpad es una herramienta colaborativa en tiempo real, así que por favor no borren lo que otras personas hayan escrito. Si necesitan espacio, simplemente agreguen una nueva línea o usen su nombre para identificar sus notas.*
+
+### Notas adhesivas
+
+Entregamos a cada alumno **dos notas adhesivas** de distintos colores, por ejemplo, **rojo y verde**. Se pueden sostener para votar, pero su uso real es como banderas de estado. Si alguien ha terminado un ejercicio y quiere que lo revisen, pone la nota verde en su portátil; si se encuentra con un problema y necesita ayuda, pone la roja. Esto es mejor que hacer que la gente levante la mano porque:
+
+-   es más discreto (lo que significa que es más probable que realmente lo hagan),
+-   pueden seguir trabajando mientras su bandera está levantada, y
+-   el instructor puede ver rápidamente desde el frente de la sala en qué estado se encuentra la clase.
+
+Idea principal:
+
+> **Evitar lo teórico y generall en favor de lo práctico y específico.**
+
+![Imagen proveniente de los [Cursos impartidos en Carpentries](https://twitter.com/CivicAngela/status/1116756455917412357)](figures/stickers_ejemplo.jpg){fig-align="center" width="791"}
+
 # Ronda de Presentaciones
 
 ::: {.callout-note icon="false"}
 ## Actividad 1: ¡Preséntate!
 
-Para comenzar, haremos una breve ronda de presentaciones. Cada persona deberá compartir la siguiente información en voz alta:
+Para comenzar, haremos una breve ronda de presentaciones. Cada persona deberá compartir la siguiente información en voz alta, en **3 min**:
 
 1.  **Nombre y apellido**
 
@@ -17,12 +47,82 @@ Para comenzar, haremos una breve ronda de presentaciones. Cada persona deberá c
 ¡La idea es romper el hielo y conocernos un poco mejor! 😊
 :::
 
-# Introducción y personas típicas
+# Motivación
 
-> Instructora: Evelia Coss
+1.  Construir lecciones más efectivas
+2.  Aplicando prácticas basadas en evidencia
+3.  Con práctica y retroalimentación
+4.  En un ambiente de aprendizaje positivo
+5.  Conocer gente, compartir recursos ¡y divertirse!
 
-## 
+::: {.callout-note icon="false"}
+## Actividad 2
+
+Escribe tu nombre en el [Etherpad](https://pad.carpentries.org/Cabana_trainthetrainers) y menciona cuál ha sido el mejor curso que has tomado y qué lo hizo tan especial.
+:::
+
+# Personas típicas
+
+1.  Antecedentes generales
+2.  Experiencia relevante
+3.  Necesidades percibidas
+4.  Consideraciones especiales
+
+### Ejemplo: Ana
+
+::: grid
+::: g-col-6
+**Antecedentes**
+
+-   Nacida y criada en Caracas
+-   Se mudó a Buenos Aires para hacer un doctorado en genética
+-   Le gusta el mate, pero aún no se acostumbra a tomarlo amargo
+
+**Punto de partida**
+
+-   Analiza datos con Excel desde hace casi diez años
+-   Hizo un taller de un día intensivo de R en una conferencia
+-   Intentó aprender Git por su cuenta una vez, lo encontró frustrante
+
+**Necesidades**
+
+-   Va a hacer 300 experimentos en los próximos seis meses
+-   No quiere hacer todos los análisis a mano
+-   Quiere mejores tablas para su tesis que las que puede hacer en Excel
+
+**Particularidades**
+
+-   Muy incómoda hablando delante de un grupo
+-   Su computadora suele reiniciarse sola
+:::
+
+::: g-col-6
+![](figures/personaje_Ana.jpg){fig-align="right"}
+:::
+:::
+
+**Explica como puedes ayudarla**
+
+Este curso práctico de una semana está diseñado para introducirte al **análisis de datos** de manera sencilla y reproducible. Aprenderás a cargar, limpiar, explorar, visualizar y analizar datos organizados en tablas, utilizando herramientas accesibles y paso a paso.
+
+::: {.callout-note icon="false"}
+## Actividad 3
+
+En 5 minutos, **crea una persona tipo** (persona ficticia que representa a un usuario o usuaria) utilizando la siguiente información. Escribe tu descripción directamente en el [Etherpad](https://pad.carpentries.org/Cabana_trainthetrainers):
+
+-    **Antecedentes generales** (¿quién es?, ¿a qué se dedica?, etc.)
+-   **Punto de partida** (¿qué sabe o ha hecho hasta ahora en relación con el tema?)
+-   **Necesidades** (¿qué busca aprender o resolver?)
+-   **Consideraciones especiales** (limitaciones, preferencias, contexto personal o profesional)
+-   **Finalmente, explica brevemente cómo podrías ayudarle a alcanzar sus objetivos.**
+:::
+
+## **Resumen** 
+
+![Introducción de [Enseñar tecnología en comunidad](https://teachtogether.tech/es/)](figures/mapaConcepto.jpg){fig-align="center" width="676"}
 
 ## Referencias
 
-No olvides las referencias
+-   Instructor Trainer Training - [informacion](https://carpentries.org/instructor-trainer-training/), [presentacion Dia1](https://drive.google.com/file/d/1vB5F0QGRhNj-D3G5b46_5c2Z2j_ncqv5/view?usp=sharing)
+-   CABANAnet + MetaDocencia: Curso Train the Trainer (Entrenamiento de Instructores) -[pagina web](https://www.metadocencia.org/curso/entrenamiento-instructores/), [presentacion](https://docs.google.com/presentation/d/1xqUg00uVHmmPxvXxqEfgJGPSScztF8_GYx9wXYxJfy8/edit?slide=id.g22d542f968e_1_99#slide=id.g22d542f968e_1_99)
+-   [Enseñar tecnología en comunidad](https://teachtogether.tech/es/)
