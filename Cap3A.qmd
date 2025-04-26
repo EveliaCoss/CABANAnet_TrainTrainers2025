@@ -1,3 +1,17 @@
+---
+title: "Memoria y Carga Cognitiva   "
+author: "Miguel Angel Magaña"
+date: 2025-04-24
+categories: [enseñanza]
+keywords: [memoria, carga cognitiva]
+license: "CC BY 4.0"
+format:
+  html:
+    toc: true
+    code-copy: true
+    number-sections: true
+---
+
 # Memoria y Carga Cognitiva
 
 > Instructor: Miguel Angel Magaña
@@ -72,7 +86,7 @@ Probablemente te has encontrado con otras estrategias mnemotécnicas, incluidas 
 
 La evaluación formativa es una herramienta clave para ayudar a los estudiantes a consolidar su comprensión y comenzar a transferir ideas a la memoria a largo plazo. ¿Por qué? Porque activa el cerebro al recuperar información recién aprendida y aplicarla de forma activa para resolver un problema. Esto no solo refuerza lo aprendido, sino que también ayuda a establecer conexiones útiles con otros conocimientos.
 
-Las limitaciones de la memoria a corto plazo son una de las razones por las que las evaluaciones deben ser frecuentes: esta memoria es limitada no solo en cantidad, sino también en duración. Si se espera demasiado tiempo antes de aplicar una evaluación formativa, parte de la información necesaria para completar la tarea puede haberse olvidado. ¡Esta ventana de tiempo puede ser muy corta, especialmente si se está enseñando mucho contenido a la vez! Asegúrate de recordar a los estudiantes los conceptos previos importantes para cada tarea. Cuando ya no sea necesario hacerlo, eso es una señal de que tus esfuerzos por apoyar la consolidación de la memoria han dado resultado.
+Las limitaciones de la memoria a corto plazo son una de las razones por las que las **evaluaciones deben ser frecuentes:** esta memoria es limitada no solo en cantidad, sino también en duración. Si se espera demasiado tiempo antes de aplicar una evaluación formativa, parte de la información necesaria para completar la tarea puede haberse olvidado. ¡Esta ventana de tiempo puede ser muy corta, especialmente si se está enseñando mucho contenido a la vez! Asegúrate de recordar a los estudiantes los conceptos previos importantes para cada tarea. Cuando ya no sea necesario hacerlo, eso es una señal de que tus esfuerzos por apoyar la consolidación de la memoria han dado resultado.
 
 ### Trabajo en grupo
 
