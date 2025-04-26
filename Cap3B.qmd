@@ -91,9 +91,41 @@ Deja tus notas en el montón junto a la puerta al salir a almorzar.
 
 :::
 
+## Principios de FAIR para Materiales de Formación
 
-## Principios de FAIR
+Los principios **FAIR** buscan que los materiales educativos sean más accesibles, útiles y sostenibles a largo plazo. Cada letra representa un principio fundamental:
 
+::: {.callout-note}
+## F – Findable (Encontrables)
+- Los materiales deben ser fáciles de localizar para otros usuarios.
+- Se recomienda usar metadatos claros (como título, autor, palabras clave, fecha) y depositarlos en repositorios accesibles públicamente.
+- **Ejemplo:** Publicar un curso en Zenodo con título descriptivo, resumen y etiquetas relevantes.
+:::
+
+::: {.callout-note}
+## A – Accessible (Accesibles)
+- Los materiales deben estar disponibles de manera abierta o con condiciones claras de acceso.
+- Se deben usar formatos abiertos (como PDF, HTML, CSV) y evitar el uso de formatos propietarios que limiten su acceso.
+- **Ejemplo:** Compartir manuales en formato PDF accesible mediante un enlace público sin necesidad de registro.
+:::
+
+::: {.callout-note}
+## I – Interoperable (Interoperables)
+- Los materiales deben poder ser utilizados y combinados fácilmente en distintos sistemas o plataformas educativas.
+- Es recomendable utilizar estándares abiertos y formatos ampliamente compatibles.
+- **Ejemplo:** Crear ejercicios en archivos `.ipynb` (Jupyter Notebooks) que puedan abrirse en diferentes entornos (Google Colab, VSCode, JupyterLab).
+:::
+
+::: {.callout-note}
+## R – Reusable (Reutilizables)
+- Los materiales deben poder ser adaptados, modificados y reutilizados en otros contextos educativos.
+- Se debe incluir una licencia abierta (como Creative Commons) y documentación clara para su uso.
+- **Ejemplo:** Licenciar una colección de diapositivas con CC-BY, permitiendo su adaptación con la debida atribución.
+:::
+
+# Resumen
+
+Aplicar los principios **FAIR** permite que los materiales de formación tengan mayor impacto, promueve su reutilización, facilita su descubrimiento y garantiza que sigan siendo útiles en el tiempo.
 
 
 ## Créditos
