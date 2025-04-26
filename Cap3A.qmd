@@ -1,17 +1,3 @@
----
-title: "Memoria y Carga Cognitiva   "
-author: "Miguel Angel Magaña"
-date: 2025-04-24
-categories: [enseñanza]
-keywords: [memoria, carga cognitiva]
-license: "CC BY 4.0"
-format:
-  html:
-    toc: true
-    code-copy: true
-    number-sections: true
----
-
 # Memoria y Carga Cognitiva
 
 > Instructor: Miguel Angel Magaña
