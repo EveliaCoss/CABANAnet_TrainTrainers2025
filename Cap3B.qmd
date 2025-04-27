@@ -91,6 +91,7 @@ Deja tus notas en el montón junto a la puerta al salir a almorzar.
 
 :::
 
+
 ## Principios de FAIR para Materiales de Formación
 
 Los principios **FAIR** buscan que los materiales educativos sean más accesibles, útiles y sostenibles a largo plazo. Cada letra representa un principio fundamental:
@@ -122,6 +123,18 @@ Los principios **FAIR** buscan que los materiales educativos sean más accesible
 - Se debe incluir una licencia abierta (como Creative Commons) y documentación clara para su uso.
 - **Ejemplo:** Licenciar una colección de diapositivas con CC-BY, permitiendo su adaptación con la debida atribución.
 :::
+
+
+[Ten simple rules for making training materials FAIR](https://doi.org/10.1371/journal.pcbi.1007854)
+
+
+
+![Representación gráfica de los principios FAIR aplicados a materiales educativos.](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007854.g001&type=large)
+
+
+**Fuente:**  
+Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., et al. (2016). *The FAIR Guiding Principles for scientific data management and stewardship*. PLOS Computational Biology, 12(3), e1000457. [https://doi.org/10.1371/journal.pcbi.1007854](https://doi.org/10.1371/journal.pcbi.1007854)
+
 
 # Resumen
 
