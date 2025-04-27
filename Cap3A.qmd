@@ -10,6 +10,7 @@
 - ¿Cómo podemos diseñar las lecciones para que se adapten a las limitaciones de la memoria, en lugar de oponerse a ellas?
 
 **Objetivos**
+
 - Recordar el límite cuantitativo de la memoria humana.
 - Distinguir entre la carga cognitiva deseable y la no deseable.
 - Evaluar la carga cognitiva asociada a una tarea de aprendizaje.
