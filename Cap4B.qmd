@@ -1,3 +1,304 @@
-# Definiendo tu audiencia y tus resultados esperados
+# Principios de una buena capacitación
 
 > Instructora: Evelia Coss
+
+![](presentaciones/Dia2_P2_PrincipiosBC_ECoss.pdf){fig-align="center" width="1000" height="1000"}
+
+## Estructura
+
+1.  **Definiendo tu audiencia**
+2.  **Planificación de cursos:** objetivos y metas de aprendizaje, desarrollo de materiales didácticos adecuados.
+3.  **Impartición de la capacitación:** involucrar y motivar a sus alumnos.
+4.  **Retroalimentación:** cómo recopilar los comentarios, interpretarlos y utilizarlos para mejorar la práctica docente.
+5.  **Cierre y reflexión final**
+
+## Definiendo tu audiencia
+
+::: grid
+::: g-col-6
+**Público objetivo**
+
+-   Esto puede o no ser tu elección.
+
+-   Cosas por tomar en cuenta:
+
+    -   **Antecedentes generales**
+
+    -   **Punto de partida**
+
+    -   **Necesidades**
+
+    -   **Consideraciones especiales**
+
+-   Ej. Bioinformática básico
+:::
+
+::: g-col-6
+![](figures/personaje_Ana.jpg){fig-align="right"}
+:::
+:::
+
+::: callout-note
+## Actividad en equipo (10 min)
+
+Cada equipo debe imaginar que diseñará un taller sobre un tema específico. Ejemplo:
+
+-   Introducción a R para biólogos
+
+Describan lo siguiente:
+
+-   Título del curso
+-   ¿Quién es tu audiencia objetivo?
+-   ¿Qué habilidades necesitan desarrollar?
+-   ¿Qué puede motivar a la audiencia a tomar este taller?
+
+\
+Finalmente, expliquen su propuesta en **2 min**.
+:::
+
+## 🎯 ¿Qué es un **objetivo de curso**?
+
+-   Un objetivo de curso define **lo que se espera que el participante logre al finalizar el curso completo**. Es más general y abarca un conjunto de conocimientos, habilidades y actitudes.
+
+📌 Características:
+
+-   Enfocado en resultados a mediano o largo plazo.
+-   Resume las metas generales del curso.
+-   Integra varias sesiones o módulos (plan de estudios)
+
+> Ejemplo: Los participantes serán capaces de diseñar, implementar y evaluar talleres de capacitación enfocados en públicos especificos utilizando metodologías participativas.
+
+## 🎯 ¿Qué es un **objetivo de sesión**?
+
+Un objetivo de sesión indica **qué se espera que el participante logre al final de una clase o módulo específico**. Es más concreto y enfocado.
+
+### 📌 Características:
+
+-   Más específico, observable y medible.
+-   Relacionado directamente con los contenidos y actividades de la sesión.
+-   Se formula normalmente con un solo verbo por objetivo.
+
+> Ejemplo: Los participantes podrán identificar los elementos clave para definir la audiencia de un taller.
+
+### **¿Cómo formular ambos?** 🛠️
+
+Usa la fórmula básica:
+
+**\[Quién\] + \[hará qué\] + \[en qué condiciones o con qué nivel de logro\]**
+
+\
+O bien sigue la estructura del enfoque **SMART**.
+
+::: callout-note
+**SMART:** Se enfoca en **redactar objetivos claros y efectivos**, asegurando que sean específicos y medibles.
+:::
+
+### Los resultados de aprendizaje deberían ser SMART
+
+-   **S**pecific - E**s**pecífico
+-   **M**easurable - **M**edible
+-   **A**chievable - **A**lcanzable
+-   **R**ealistic - **R**ealista/Relevante
+-   **T**ime-limited - **T**iempo definido
+
+## ✅ **S -- Específico**
+
+Pregunta principal:
+
+> ¿Qué exactamente quiero que los participantes logren?
+
+Otras preguntas:
+
+-   ¿Qué habilidad, conocimiento o actitud deben adquirir?
+
+-   ¿A qué se refiere concretamente el objetivo?
+
+-   ¿Está claro quién es el público objetivo?
+
+**Ejemplo de pregunta:** *¿Quiero que identifiquen conceptos clave, apliquen una técnica, o diseñen un producto?*
+
+## ✅ **M -- Medible**
+
+Pregunta principal:
+
+> ¿Cómo sabré que lo lograron?
+
+Otras preguntas:
+
+-   ¿Qué evidencia mostrarán para demostrar que alcanzaron el objetivo?
+
+-   ¿Puedo observarlo, medirlo o evaluarlo?
+
+**Ejemplo de pregunta:** *¿Cómo puedo comprobar que los participantes entendieron o aplicaron lo aprendido?*
+
+## ✅ **A -- Alcanzable**
+
+Pregunta principal:
+
+> ¿Es realista con el tiempo y recursos disponibles?
+
+Otras preguntas:
+
+-   ¿Tienen los participantes los conocimientos previos necesarios?
+-   ¿Se puede lograr el objetivo en el tiempo de la sesión o del curso?
+
+**Ejemplo de pregunta:** *¿Pueden los participantes lograr este objetivo con el nivel actual que tienen y en el tiempo disponible?*
+
+## ✅ **R -- Relevante**
+
+Pregunta principal:
+
+> ¿Está alineado con las necesidades de la audiencia y los objetivos generales del curso?
+
+Otras preguntas:
+
+-   ¿Es útil o aplicable para el trabajo o contexto de los participantes?
+-   ¿Aporta valor al proceso de aprendizaje?
+
+**Ejemplo de pregunta:** *¿Este objetivo contribuye a que los participantes logren un cambio significativo en su práctica o conocimiento?*
+
+## ✅ **T -- Temporal**
+
+Pregunta prinicipal:
+
+> ¿Cuándo se debe lograr?
+
+Otras preguntas:
+
+-   ¿Se puede cumplir al final de la sesión, módulo o curso?
+-   ¿Está definido el plazo para alcanzar el objetivo?
+
+**Ejemplo de pregunta:** *¿Este objetivo debe alcanzarse en esta sesión, en una semana, o al final del curso?*
+
+### **Pre-requisitos de un curso**
+
+-   Conceptos teóricos (ej. biología básica, álgebra) Conocimientos técnicos (ej. uso de software, manejo de archivos)
+-   Habilidades generales (ej. saber programar, interpretar gráficos)
+-   Nivel requerido (básico, intermedio o avanzado)
+-   Definir si serán obligatorios o recomendados
+
+::: {.callout-note icon="false"}
+## Actividad en equipo (10 min)
+
+Cada equipo debe agregar lo siguiente a su taller:
+
+-   Objetivo del curso
+
+-   Pre-requisitos
+
+Finalmente, expliquen su propuesta en **2 min**.
+:::
+
+### Taxonomía de Bloom: Niveles de aprendizaje
+
+La **Taxonomía de Bloom** es una herramienta fundamental en la educación que sirve para **clasificar y estructurar los objetivos de aprendizaje** según el nivel de complejidad cognitiva que implican. Fue desarrollada por Benjamin Bloom y colaboradores en 1956 y luego revisada en 2001 para adaptarse mejor a contextos modernos.
+
+![](figures/taxonomia_bloom.jpg){fig-align="center"}
+
+#### **Aplicaciones**
+
+![](figures/taxonomia_bloom_aplicaciones.jpg)
+
+#### Verbos empleados
+
+![](figures/taxonomia_bloom_verbos.jpg){fig-align="center"}
+
+## **Plan de estudios**
+
+-   No hay una forma establecida de hacer esto.
+
+**Para estructurar el contenido de un curso:**
+
+-   Identifica los temas clave del curso.
+-   Define cuáles vas a cubrir y hasta qué profundidad.
+-   Considera si los participantes necesitan conocimientos previos.
+-   **Equilibra teoría y práctica** para favorecer el aprendizaje.
+
+### Estructura típica de una sesión de capacitación
+
+Ejemplo: 1h de curso
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------+
+| **Estructura**                                                                                                                                                                                     | **Información**                                        | **Tiempo**  |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------+
+| Inicio                                                                                                                                                                                             | -   Actividad rompehielo o pregunta disparadora.       | 10-15 min   |
+|                                                                                                                                                                                                    |                                                        |             |
+| (10-15%)                                                                                                                                                                                           | -   Presentación, expectativas, encuadre del tema.     |             |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------+
+| Desarrollo \| - Presentación de contenidos clave. \| 40-30 min \| \| \| (70-80%) \| - Actividades prácticas, discusiones o ejercicios. \| \| \| \| - Ejemplos aplicados y participación activa. \| |                                                        |             |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------+
+| Cierre                                                                                                                                                                                             | -   Recapitulación.                                    | 10 - 15 min |
+|                                                                                                                                                                                                    |                                                        |             |
+| (10-15%)                                                                                                                                                                                           | -   Preguntas, evaluación rápida o reflexión.          |             |
+|                                                                                                                                                                                                    |                                                        |             |
+|                                                                                                                                                                                                    | -   Indicaciones de seguimiento, recursos adicionales. |             |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------+
+
+Ejemplo: https://eveliacoss.github.io/Tutorial_ISCB_LATAM_scATACseq/
+
+### Agrega los descansos
+
+-   Permite recuperar la atención y reducir la fatiga.
+-   Favorece la retención de información y mejora el desempeño cognitivo.
+-   También es útil para socializar o procesar lo aprendido.
+
+Se recomiendan descansos de 5 a 10 minutos cada 60 a 90 minutos.
+
+::: {.callout-note icon="false"}
+## Actividad en equipo (10 min)
+
+Cada equipo debe agregar lo siguiente a su taller:
+
+-   Cronograma de actividades
+
+Finalmente, expliquen su propuesta en **2 min**.
+:::
+
+## **Formas** **de detectar dudas en tu audiencia**
+
+✋ **Formas activas o participativas**
+
+-   Levanten la mano los supervivientes en este punto.
+-   En una palabra, ¿cómo se sintieron con este tema? (pueden decir: "confundido", "claro", "interesante"...)
+-   Escriban en el chat (si es virtual) cualquier duda o comentario.
+
+🧠 **Formas reflexivas o indirectas**
+
+-   ¿Qué se llevarían de esta parte si tuvieran que explicárselo a alguien más?
+-   Si tuvieran que resumir este tema en una frase, ¿cómo lo harían? (Esto revela si hay comprensión o dudas encubiertas).
+
+## Evaluación del aprendizaje adquirido
+
+**Propósito**: Comprobar si los participantes alcanzaron los objetivos de la sesión o curso.
+
+**Cuándo hacerlo**: Al final de la sesión o de cada bloque importante.
+
+**Cómo hacerlo**:
+
+-   Preguntas orales o escritas.
+-   Miniquiz o ejercicios de aplicación.
+-   Actividad de repaso o mapa conceptual.
+-   Ronda de reflexión: "¿Qué aprendí hoy?"
+
+**Qué observar**:
+
+-   Nivel de comprensión.
+-   Capacidad de aplicar lo aprendido.
+-   Dudas o conceptos que deben reforzarse.
+
+## Retroalimentación
+
+**❓ Tipos de preguntas para recopilar retroalimentación**
+
+**🔹 Cerradas (rápidas y cuantificables)**
+
+-   ¿La sesión cumplió tus expectativas? (Sí/No)
+-   ¿Te resultó clara la explicación de los temas? (Escala del 1 al 5)
+-   ¿Recomendarías esta sesión a otra persona? (Sí/No)
+
+**🔹 Abiertas (más detalladas y reflexivas)**
+
+-   ¿Qué fue lo que más te gustó de esta sesión?
+-   ¿Qué parte te pareció menos útil o confusa?
+-   ¿Qué sugerencias tienes para mejorar este taller en el futuro?
+-   ¿Hubo algo que esperabas aprender y no se abordó?

@@ -31,7 +31,7 @@ Idea principal:
 # Ronda de Presentaciones
 
 ::: {.callout-note icon="false"}
-## Actividad 1: ¡Preséntate!
+## Actividad: ¡Preséntate!
 
 Para comenzar, haremos una breve ronda de presentaciones. Cada persona deberá compartir la siguiente información en voz alta, en **3 min**:
 
@@ -56,7 +56,7 @@ Para comenzar, haremos una breve ronda de presentaciones. Cada persona deberá c
 5.  Conocer gente, compartir recursos ¡y divertirse!
 
 ::: {.callout-note icon="false"}
-## Actividad 2
+## Actividad
 
 Escribe tu nombre en el [Etherpad](https://pad.carpentries.org/Cabana_trainthetrainers) y menciona cuál ha sido el mejor curso que has tomado y qué lo hizo tan especial.
 :::
@@ -106,7 +106,7 @@ Escribe tu nombre en el [Etherpad](https://pad.carpentries.org/Cabana_trainthetr
 Este curso práctico de una semana está diseñado para introducirte al **análisis de datos** de manera sencilla y reproducible. Aprenderás a cargar, limpiar, explorar, visualizar y analizar datos organizados en tablas, utilizando herramientas accesibles y paso a paso.
 
 ::: {.callout-note icon="false"}
-## Actividad 3
+## Actividad
 
 En 5 minutos, **crea una persona tipo** (persona ficticia que representa a un usuario o usuaria) utilizando la siguiente información. Escribe tu descripción directamente en el [Etherpad](https://pad.carpentries.org/Cabana_trainthetrainers):
 

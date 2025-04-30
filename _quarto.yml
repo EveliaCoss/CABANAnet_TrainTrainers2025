@@ -26,7 +26,6 @@ book:
     chapters:
     - Cap4A.qmd
     - Cap4B.qmd
-    - Cap4C.qmd
   - part: "**Sección 5** - Enseñar en línea y Planificación de cursos"
     chapters:
     - Cap5A.qmd

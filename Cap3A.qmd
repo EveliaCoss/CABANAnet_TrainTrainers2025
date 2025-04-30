@@ -2,22 +2,22 @@
 
 > Instructor: Miguel Angel Magaña
 
-::: {.callout-note title="Resumen y Objetivos"}
+![](presentaciones/Dia1_Memoria.pdf){fig-align="center" width="1000" height="1000"}
 
+::: {.callout-note title="Resumen y Objetivos"}
 **Preguntas**
 
-- ¿Qué es la carga cognitiva y cómo afecta al aprendizaje?
-- ¿Cómo podemos diseñar las lecciones para que se adapten a las limitaciones de la memoria, en lugar de oponerse a ellas?
+-   ¿Qué es la carga cognitiva y cómo afecta al aprendizaje?
+-   ¿Cómo podemos diseñar las lecciones para que se adapten a las limitaciones de la memoria, en lugar de oponerse a ellas?
 
 **Objetivos**
 
-- Recordar el límite cuantitativo de la memoria humana.
-- Distinguir entre la carga cognitiva deseable y la no deseable.
-- Evaluar la carga cognitiva asociada a una tarea de aprendizaje.
-
+-   Recordar el límite cuantitativo de la memoria humana.
+-   Distinguir entre la carga cognitiva deseable y la no deseable.
+-   Evaluar la carga cognitiva asociada a una tarea de aprendizaje.
 :::
 
-Aprenderemos más sobre la memoria humana, específicamente sobre cómo eliminar la “carga” innecesaria para facilitar el aprendizaje.
+Aprenderemos más sobre la memoria humana, específicamente sobre cómo eliminar la "carga" innecesaria para facilitar el aprendizaje.
 
 ## Tipos de Memoria
 
@@ -28,7 +28,7 @@ El segundo nivel es la **memoria a corto plazo**, también conocida como **memor
 Estudios más recientes indican que esa capacidad podría ser incluso menor. Aunque varía de persona a persona y dependiendo de la situación, lo que sí sabemos es que **la memoria de corto plazo tiene un límite**. Esto es muy importante en la enseñanza. Si le damos al estudiante demasiada información de golpe, sin permitirle practicar y aplicar lo que va aprendiendo (lo cual ayuda a pasar esa información a la memoria de largo plazo), es muy probable que no retenga mucho. Por eso es tan importante ir con calma, presentar la información poco a poco y usar evaluaciones formativas frecuentes.
 
 ::: {.callout-warning title="Pon a prueba tu memoria de trabajo"}
-Realiza una prueba rápida de memoria de trabajo en: [https://miku.github.io/activememory/](https://miku.github.io/activememory/)
+Realiza una prueba rápida de memoria de trabajo en: <https://miku.github.io/activememory/>
 
 ¿Cuál fue tu resultado? Si te sientes cómodo, comparte tu respuesta.
 
@@ -37,21 +37,20 @@ Si no puedes realizar esta actividad, pídele a tu instructor que implemente la 
 Este ejercicio debería tomar aproximadamente 5 minutos.
 :::
 
-La mayoría de las personas descubrirán que solo recuerdan entre 5 y 7 palabras. Quienes recuerdan menos pueden estar experimentando distracción, fatiga o (como veremos más adelante) una “sobrecarga cognitiva”. Quienes recuerdan más, casi siempre están utilizando alguna *estrategia de memorización* (memory management strategy).
-
+La mayoría de las personas descubrirán que solo recuerdan entre 5 y 7 palabras. Quienes recuerdan menos pueden estar experimentando distracción, fatiga o (como veremos más adelante) una "sobrecarga cognitiva". Quienes recuerdan más, casi siempre están utilizando alguna *estrategia de memorización* (memory management strategy).
 
 ## Estrategias para la gestión de la memoria
 
 Dado que la memoria a corto plazo es limitada, podemos apoyar a los estudiantes evitando saturarla con demasiadas piezas de información aisladas. ¿Significa esto que debemos enseñar menos conceptos? ¡Sí! Sin embargo, esa no es nuestra única herramienta. También podemos ayudar proporcionando estrategias y ejercicios que les permitan:
 
-1. Sostener más elementos al mismo tiempo en la memoria de corto plazo.
-2. Comenzar a consolidar algunos conceptos, trasladándolos a la memoria de largo plazo.
+1.  Sostener más elementos al mismo tiempo en la memoria de corto plazo.
+2.  Comenzar a consolidar algunos conceptos, trasladándolos a la memoria de largo plazo.
 
 ## Agrupamiento (Chunking)
 
-Nuestra mente puede almacenar una mayor cantidad de hechos en la memoria a corto plazo al crear *agrupamientos* o relaciones entre elementos separados, lo cual permite recordarlos como una sola unidad.  
+Nuestra mente puede almacenar una mayor cantidad de hechos en la memoria a corto plazo al crear *agrupamientos* o relaciones entre elementos separados, lo cual permite recordarlos como una sola unidad.
 
-Por ejemplo, la mayoría de las personas recuerda una palabra que lee como una unidad completa (“gato”), en lugar de como una secuencia de letras (“g-a-t-o”).  
+Por ejemplo, la mayoría de las personas recuerda una palabra que lee como una unidad completa ("gato"), en lugar de como una secuencia de letras ("g-a-t-o").
 
 De forma similar, el patrón formado por cinco puntos en una carta o dado se recuerda como un conjunto, y no como cinco piezas de información independientes.
 
@@ -63,11 +62,11 @@ Escribe en el Etherpad cuántas palabras lograste recordar. ¿Cómo se compara e
 Este ejercicio debería tomar aproximadamente 5 minutos.
 :::
 
-![Ejemplo de agrupamiento en la memoria. Fuente: The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/fig/chunking2.png){#fig-chunking width=70%}
+![Ejemplo de agrupamiento en la memoria. Fuente: The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/fig/chunking2.png){#fig-chunking width="70%"}
 
 Asociar conceptos reduce la cantidad de elementos individuales que tu memoria de corto plazo necesita manejar, lo que te permite retener más información al mismo tiempo.
 
-Probablemente te has encontrado con otras estrategias mnemotécnicas, incluidas algunas que se basan en imaginar una “asociación espacial” para cada elemento, como en el caso del “palacio de la memoria” *Method of Loci*. Aunque es una técnica algo distinta al agrupamiento, también es un ejemplo de cómo establecer conexiones entre ideas puede facilitar su recuerdo.
+Probablemente te has encontrado con otras estrategias mnemotécnicas, incluidas algunas que se basan en imaginar una "asociación espacial" para cada elemento, como en el caso del "palacio de la memoria" *Method of Loci*. Aunque es una técnica algo distinta al agrupamiento, también es un ejemplo de cómo establecer conexiones entre ideas puede facilitar su recuerdo.
 
 ### Usar la evaluación formativa para apoyar la consolidación de la memoria
 
@@ -77,7 +76,7 @@ Las limitaciones de la memoria a corto plazo son una de las razones por las que 
 
 ### Trabajo en grupo
 
-La elaboración —explicar lo que se está haciendo— favorece el traspaso del conocimiento a la memoria de largo plazo. ¡Por eso enseñar es una de las mejores formas de aprender! Al principio, el trabajo en grupo puede parecer incómodo y consumir tiempo en un taller, pero muchos estudiantes lo califican como uno de los aspectos más valiosos tanto en términos de aprendizaje como de disfrute. Además, es una excelente oportunidad para que los ayudantes circulen, resuelvan dudas o propicien discusiones más avanzadas.
+La elaboración ---explicar lo que se está haciendo--- favorece el traspaso del conocimiento a la memoria de largo plazo. ¡Por eso enseñar es una de las mejores formas de aprender! Al principio, el trabajo en grupo puede parecer incómodo y consumir tiempo en un taller, pero muchos estudiantes lo califican como uno de los aspectos más valiosos tanto en términos de aprendizaje como de disfrute. Además, es una excelente oportunidad para que los ayudantes circulen, resuelvan dudas o propicien discusiones más avanzadas.
 
 ### Espacios para la reflexión
 
@@ -85,7 +84,7 @@ La reflexión es otra herramienta que ayuda a los estudiantes a repasar lo apren
 
 ### Limita los conceptos
 
-Al igual que con la idea de “ir despacio”, es importante limitar la cantidad de conceptos que se introducen en una lección. ¡Y eso puede ser difícil! Al revisar una clase que vas a impartir, seguramente encontrarás conceptos relacionados muy útiles y podrías sentirte tentado a incluirlos. Planear tu clase con un mapa conceptual puede ayudarte no solo a identificar los conceptos clave y sus relaciones, sino también a detectar cuándo estás intentando enseñar demasiadas cosas al mismo tiempo.
+Al igual que con la idea de "ir despacio", es importante limitar la cantidad de conceptos que se introducen en una lección. ¡Y eso puede ser difícil! Al revisar una clase que vas a impartir, seguramente encontrarás conceptos relacionados muy útiles y podrías sentirte tentado a incluirlos. Planear tu clase con un mapa conceptual puede ayudarte no solo a identificar los conceptos clave y sus relaciones, sino también a detectar cuándo estás intentando enseñar demasiadas cosas al mismo tiempo.
 
 ## La atención es un recurso limitado: carga cognitiva
 
@@ -95,37 +94,32 @@ La memoria no es el único recurso cognitivo que tiene límites. La **atención*
 
 Existen diferentes teorías sobre la [**carga cognitiva**](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_carga_cognitiva). En una de ellas, [**Sweller**](https://doi.org/10.1207/s15516709cog1202_4) plantea que, al aprender, las personas deben atender tres tipos de aspectos:
 
-- Las cosas que necesitan pensar para poder realizar una tarea (**carga intrínseca**).
-- El esfuerzo mental necesario para conectar la tarea con conocimientos previos y nuevos (**carga germana**).
-- Las distracciones u otros esfuerzos mentales que no están directamente relacionados con la tarea ni con el aprendizaje (**carga extrínseca**).
+-   Las cosas que necesitan pensar para poder realizar una tarea (**carga intrínseca**).
+-   El esfuerzo mental necesario para conectar la tarea con conocimientos previos y nuevos (**carga germana**).
+-   Las distracciones u otros esfuerzos mentales que no están directamente relacionados con la tarea ni con el aprendizaje (**carga extrínseca**).
 
-¡La carga cognitiva no siempre es algo negativo! Hay mucha evidencia que sugiere que cierta dificultad es deseable y puede mejorar el aprendizaje. Sin embargo, existen límites. Gestionar todos los tipos de carga cognitiva —con especial atención a la carga extrínseca— puede ayudar a evitar que una **sobrecarga cognitiva** impida el aprendizaje por completo.
+¡La carga cognitiva no siempre es algo negativo! Hay mucha evidencia que sugiere que cierta dificultad es deseable y puede mejorar el aprendizaje. Sin embargo, existen límites. Gestionar todos los tipos de carga cognitiva ---con especial atención a la carga extrínseca--- puede ayudar a evitar que una **sobrecarga cognitiva** impida el aprendizaje por completo.
 
 Una forma efectiva de manejar la carga cognitiva, especialmente cuando las tareas se vuelven más complejas, es mediante la **práctica guiada**: crear una estructura que enfoque de manera precisa la atención en habilidades y conocimientos específicos, avanzando por etapas, con retroalimentación en cada paso antes de pasar a una nueva característica o contenido.
 
-
 ::: {.callout-warning title="¿Es la práctica guiada una forma de sobreproteger al estudiante?"}
-
 Una alternativa a la práctica guiada es el enfoque de **mínima orientación**, donde a los estudiantes se les proporcionan materiales básicos (por ejemplo, un texto o una referencia) y se les pide que exploren y aprendan a resolver problemas por su cuenta. Este tipo de enfoque es común en estrategias educativas como el *constructivismo, aprendizaje por descubrimiento, aprendizaje basado en problemas, aprendizaje experiencial* o *aprendizaje por indagación*.
 
 ¡Estas estrategias tienen valor! De hecho, pueden funcionar muy bien con estudiantes avanzados. Sin embargo, con frecuencia **no son efectivas con estudiantes principiantes**. Un artículo clave de [Kirschner et al.](https://www.tandfonline.com/doi/pdf/10.1207/s15326985ep4102_1) analiza la popularidad y los resultados inconsistentes de estos métodos desde la perspectiva de la teoría de la carga cognitiva, para explicar por qué a menudo fallan.
 
-Algunas personas sienten que la práctica guiada equivale a “tomar de la mano” al estudiante, insinuando que quienes reciben apoyo nunca aprenderán a ser independientes. Esta visión no considera la *carga cognitiva adicional* que enfrentan los principiantes al formar nuevas conexiones mientras aprenden una tarea. **La instrucción con mínima orientación exige que los estudiantes dominen al mismo tiempo tanto los contenidos del área como las estrategias de búsqueda y resolución de problemas.* Fomentar la creatividad y la autonomía lleva tiempo. La mínima orientación puede sonar atractiva, pero eso no significa que siempre funcione.
-
+Algunas personas sienten que la práctica guiada equivale a "tomar de la mano" al estudiante, insinuando que quienes reciben apoyo nunca aprenderán a ser independientes. Esta visión no considera la *carga cognitiva adicional* que enfrentan los principiantes al formar nuevas conexiones mientras aprenden una tarea. \*\*La instrucción con mínima orientación exige que los estudiantes dominen al mismo tiempo tanto los contenidos del área como las estrategias de búsqueda y resolución de problemas.\* Fomentar la creatividad y la autonomía lleva tiempo. La mínima orientación puede sonar atractiva, pero eso no significa que siempre funcione.
 :::
 
 ::: {.callout-note title="Mapeo de la carga cognitiva"}
-
 Revisa el material del plan de estudios que elegiste para preparar esta capacitación y concéntrate en un paso o tarea específica que se espera que los estudiantes completen.
 
-- ¿Qué conceptos necesitarán comprender y mantener en su memoria de corto plazo para poder completar esta tarea?
-- Dibuja un mapa conceptual que conecte esos conceptos. ¿Qué relaciones necesitan comprender los estudiantes para poder establecer esas conexiones?
-- ¿Cuántos de estos conceptos y relaciones se han introducido desde el paso o ejercicio anterior?
+-   ¿Qué conceptos necesitarán comprender y mantener en su memoria de corto plazo para poder completar esta tarea?
+-   Dibuja un mapa conceptual que conecte esos conceptos. ¿Qué relaciones necesitan comprender los estudiantes para poder establecer esas conexiones?
+-   ¿Cuántos de estos conceptos y relaciones se han introducido desde el paso o ejercicio anterior?
 
 Trabaja con un compañero o en grupos pequeños para discutir lo que encontraste. ¿Crees que tus estudiantes están en riesgo de sufrir una **sobrecarga cognitiva** en este punto del taller? ¿Por qué sí o por qué no?
 
 Este ejercicio debería tomar aproximadamente 15 minutos.
-
 :::
 
 ## Gestión de la atención en tu taller
@@ -138,11 +132,11 @@ Las decisiones que tomes como instructor pueden aumentar o reducir la carga cogn
 
 Existen muchos tipos de ejercicios que pueden ayudar a enfocar la atención y evitar la sobrecarga cognitiva. Preguntas de opción múltiple bien dirigidas pueden cumplir este propósito. Aquí tienes algunas otras estrategias que podrías considerar:
 
-- [**Ejemplos atenuados**](https://en.wikipedia.org/wiki/Worked-example_effect): bloques de código con partes específicas omitidas, como si fueran ejercicios de llenar los espacios.
-- [**Problemas de Parson**](https://en.wikipedia.org/wiki/Parsons_problems): fragmentos de código desordenado que los estudiantes deben seleccionar y reorganizar correctamente.
-- **Etiquetado de diagramas o flujogramas**: pueden presentarse también como ejercicios de completar espacios.
+-   [**Ejemplos atenuados**](https://en.wikipedia.org/wiki/Worked-example_effect): bloques de código con partes específicas omitidas, como si fueran ejercicios de llenar los espacios.
+-   [**Problemas de Parson**](https://en.wikipedia.org/wiki/Parsons_problems): fragmentos de código desordenado que los estudiantes deben seleccionar y reorganizar correctamente.
+-   **Etiquetado de diagramas o flujogramas**: pueden presentarse también como ejercicios de completar espacios.
 
-⚠️ Cuidado con las evaluaciones demasiado abiertas, ya que es muy probable que provoquen sobrecarga cognitiva en estudiantes principiantes. Tal vez tú mismo la experimentaste al crear un mapa conceptual; por esta razón, no recomendamos ese tipo de actividad para estudiantes que están comenzando. También es riesgoso hacer preguntas que exijan a los estudiantes recordar y al mismo tiempo sintetizar o razonar con información nueva. Si pruebas una pregunta y el salón queda en completo silencio, puede que necesites un rompehielos, una reexplicación… o simplemente una pregunta más concreta y enfocada.
+⚠️ Cuidado con las evaluaciones demasiado abiertas, ya que es muy probable que provoquen sobrecarga cognitiva en estudiantes principiantes. Tal vez tú mismo la experimentaste al crear un mapa conceptual; por esta razón, no recomendamos ese tipo de actividad para estudiantes que están comenzando. También es riesgoso hacer preguntas que exijan a los estudiantes recordar y al mismo tiempo sintetizar o razonar con información nueva. Si pruebas una pregunta y el salón queda en completo silencio, puede que necesites un rompehielos, una reexplicación... o simplemente una pregunta más concreta y enfocada.
 
 ### Qué mostrar durante la enseñanza
 
@@ -165,18 +159,15 @@ Las **evaluaciones formativas**, cuando se aplican con frecuencia, ayudan a los 
 Cualquier cosa que puedas hacer para: a) reconocer los límites de la memoria de corto plazo, y b) apoyar a tus estudiantes en cómo trabajar con ellos, **mejorará la efectividad de tu enseñanza**.
 
 ::: {.callout-note title="Puntos clave"}
-
-- La mayoría de los adultos solo puede retener unos pocos elementos en su memoria de corto plazo durante unos segundos antes de olvidarlos.
-- Las cosas que se ven juntas se recuerdan (o se malinterpretan) como un solo bloque o agrupamiento.
-- La carga cognitiva debe gestionarse mediante **práctica guiada** para facilitar el aprendizaje y evitar la sobrecarga.
-- Las **evaluaciones formativas** pueden ayudar a consolidar el aprendizaje en la memoria de largo plazo.
-
+-   La mayoría de los adultos solo puede retener unos pocos elementos en su memoria de corto plazo durante unos segundos antes de olvidarlos.
+-   Las cosas que se ven juntas se recuerdan (o se malinterpretan) como un solo bloque o agrupamiento.
+-   La carga cognitiva debe gestionarse mediante **práctica guiada** para facilitar el aprendizaje y evitar la sobrecarga.
+-   Las **evaluaciones formativas** pueden ayudar a consolidar el aprendizaje en la memoria de largo plazo.
 :::
-
 
 ## Créditos
 
-**Créditos y atribución:**  
+**Créditos y atribución:**\
 Este contenido ha sido traducido y adaptado del material original de [The Carpentries Instructor Training](https://carpentries.github.io/instructor-training/05-memory.html), bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 The Carpentries promueve la enseñanza inclusiva y basada en evidencia de habilidades fundamentales de computación y ciencia de datos. Puedes consultar el material original en inglés en su [sitio web oficial](https://carpentries.org/).
