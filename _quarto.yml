@@ -35,8 +35,6 @@ book:
     - Cap6A.qmd
     - Cap6B.qmd
     - Cap6C.qmd
-    - Cap6D.qmd
-    - Cap6E.qmd    
   # Information
   site-url: https://cabana.network/ # 📍URL del sitio completo CABANANet
   repo-url: https://github.com/EveliaCoss/CABANAnet_TrainTrainers2025 # link de Github

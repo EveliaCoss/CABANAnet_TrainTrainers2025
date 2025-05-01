@@ -16,9 +16,11 @@ Si quieres usar el template que uso en los Workshop puedes usar [Workshop_templa
 
 ## Lista de verificación para sesiones en línea:
 
+> Da un trocito de ti para tus participantes.
+
 #### 🎥 **Audio y video**
 
--    Cámara encendida y enfocada correctamente.
+-   Cámara encendida y enfocada correctamente.
 -   Micrófono encendido y funcionando.
 -   Confirmar con los participantes que te escuchan bien.
 
@@ -33,7 +35,7 @@ Si quieres usar el template que uso en los Workshop puedes usar [Workshop_templa
 
 -   Tamaño de letra legible en presentaciones y demos en vivo.
 -   Usar fondo claro (preferentemente blanco) para código o documentos.
--    En RStudio, mantener el tema visual en modo claro (default) si estás enseñando.
+-   En RStudio, mantener el tema visual en modo claro (default) si estás enseñando.
 
 #### 🔗 **Pantalla compartida**
 
@@ -42,7 +44,7 @@ Si quieres usar el template que uso en los Workshop puedes usar [Workshop_templa
 
 ### 🎨 **Uso de materiales**
 
--    🖼️ Incluye imágenes, diagramas y ejemplos reales para mantener el interés.
+-   🖼️ Incluye imágenes, diagramas y ejemplos reales para mantener el interés.
 -   🧭 Usa punteros o destaca elementos en la pantalla para guiar visualmente.
 -   🔄 Si das instrucciones, muéstralas por escrito además de decirlas en voz alta.
 
@@ -54,12 +56,12 @@ Si quieres usar el template que uso en los Workshop puedes usar [Workshop_templa
 
 ### ⏱️ **Gestión del ritmo**
 
--    ⏸️ Planifica pausas cada 60--90 minutos para descanso o preguntas.
+-   ⏸️ Planifica pausas cada 60--90 minutos para descanso o preguntas.
 -   ⏳ Marca el cambio entre secciones para que los alumnos sigan el hilo.
 -   🎥 Graba la sesión si es posible, para quienes no puedan asistir en vivo (pedir permiso a las asistentes antes de empezar a grabar o contar con su permiso previo).
 
 ### 📬 **Seguimiento y apoyo**
 
--    📁 Envía materiales antes o después de la sesión.
+-   📁 Envía materiales antes o después de la sesión.
 -   📩 Deja un canal de comunicación abierto (correo, chat, foro).
 -   🧭 Ofrece indicaciones claras sobre qué hacer después de la sesión (actividad, lectura, entrega, etc.)

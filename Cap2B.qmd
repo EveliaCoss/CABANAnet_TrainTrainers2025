@@ -2,6 +2,4 @@
 
 > Instructor: Domingo Martinez
 
-::: {.callout-note icon="false"}
-## Actividad 4: Carga cognitiva
-:::
+![](presentaciones/Dia1_Cargacognitiva.pdf){fig-align="center" width="600" height="400"}

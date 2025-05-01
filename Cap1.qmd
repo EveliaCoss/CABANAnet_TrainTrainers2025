@@ -2,6 +2,4 @@
 
 > Instructor: Domingo Martinez
 
-::: {.callout-note icon="false"}
-## Actividad 2: ¿Cómo aprenden las personas?
-:::
+![](presentaciones/Dia1_ComoAprenden_personas.pdf){fig-align="center" width="600" height="400"}

@@ -2,7 +2,7 @@
 
 > Instructor: Miguel Angel Magaña
 
-![](presentaciones/Dia1_Memoria.pdf){fig-align="center" width="1000" height="1000"}
+![](presentaciones/Dia1_Memoria.pdf){fig-align="center" width="600" height="400"}
 
 ::: {.callout-note title="Resumen y Objetivos"}
 **Preguntas**

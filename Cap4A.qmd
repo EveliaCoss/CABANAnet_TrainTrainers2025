@@ -2,7 +2,7 @@
 
 > Instructora: **Evelia Coss**
 
-![](presentaciones/Dia2_P1_recap_ECoss.pdf){fig-align="center" width="1000" height="1000"}
+![](presentaciones/Dia2_P1_recap_ECoss.pdf){fig-align="center" width="600" height="400"}
 
 ## **Recapitulación**
 

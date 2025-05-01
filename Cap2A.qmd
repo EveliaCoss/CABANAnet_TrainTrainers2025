@@ -2,6 +2,4 @@
 
 > Instructor: Domingo Martinez
 
-::: {.callout-note icon="false"}
-## Actividad 3: Modelos mentales
-:::
+![](presentaciones/Dia1_Modelos_Mentales.pdf){fig-align="center" width="600" height="400"}
